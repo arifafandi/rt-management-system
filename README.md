@@ -111,7 +111,7 @@ Fitur untuk melihat laporan keuangan perumahan:
 - Node.js v22.14.0 atau lebih tinggi
 - MySQL
 - Composer
-- NPM atau Yarn (rekomdasi npm)
+- NPM atau Yarn (rekomendasi npm)
 
 ## Langkah Pengembangan
 
